@@ -23,6 +23,7 @@ Vonex Business Solutions provides office equipment, printer and copier service, 
 - [Managed print services](managed-print-services/saskatchewan.md)
 - [Printer supplies](printer-supplies/toner-canada.md)
 - [Copier guides](copier-guides/kyocera.md)
+- [Printer brand lease & repair guides](brand-guides/README.md)
 - [Canadian printer resources](resources/canadian-printer-resources.md)
 
 ## Local business reference
