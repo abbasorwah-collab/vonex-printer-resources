@@ -1,0 +1,16 @@
+priority,stack,target_url,action,asset_type,owner,status,verification,next_action
+1,Commercial Copier Lease,https://vonex.ca/lease-rental,Build lease/rental support content and calculator,content/tool,Vonex,planned,,Create content brief
+2,Printer Repair Saskatoon,https://vonex.ca/printer-repair-saskatoon,Add original technician image and repair-support content,image/content,Vonex,planned,,Collect original photos
+3,Managed Print Services,https://vonex.ca/managed-print,Build MPS savings/fleet assessment resource,tool/content,Vonex,planned,,Create calculator specification
+4,Printer Leasing,https://vonex.ca/lease-rental,Create printer lease guide and internal-link cluster,content,Vonex,planned,,Map supporting pages
+5,Saskatoon Local Services,https://vonex.ca/services,Connect service pages with local entity and citation assets,local SEO,Vonex,planned,,Audit existing citations
+6,Kyocera,https://vonex.ca/kyocera-authorized-dealer-saskatoon,Build verified brand/service stack,brand SEO,Vonex,planned,,Confirm exact authorization wording
+7,HP,https://vonex.ca/hp-printer-service-saskatoon,Build verified brand/service stack,brand SEO,Vonex,planned,,Review page and asset needs
+8,Lexmark,https://vonex.ca/lexmark-printer-service-saskatoon,Build service stack,brand SEO,Vonex,planned,,Review page and asset needs
+9,Zebra,https://vonex.ca/brands,Build printer sales/service stack,brand SEO,Vonex,planned,,Select appropriate Zebra target page
+10,Medical Clinics,https://vonex.ca/blog/medical-clinic-printer-leasing-managed-print,Expand into industry resource cluster,industry SEO,Vonex,planned,,Create supporting guide
+11,Law Firms,https://vonex.ca/blog/law-firm-printer-leasing-managed-print,Expand into industry resource cluster,industry SEO,Vonex,planned,,Create supporting guide
+12,Shop Toner,https://shop.vonex.ca/,Build toner collection/resource stack,ecommerce SEO,Vonex,planned,,Identify collection URL
+13,Shop Ink,https://shop.vonex.ca/,Build ink collection/resource stack,ecommerce SEO,Vonex,planned,,Identify collection URL
+14,Shop Printer Supplies,https://shop.vonex.ca/,Build printer supplies collection/resource stack,ecommerce SEO,Vonex,planned,,Identify collection URL
+15,Shop Products,https://shop.vonex.ca/,Rotate through high-value products and resource opportunities,ecommerce SEO,Vonex,planned,,Select first product batch
