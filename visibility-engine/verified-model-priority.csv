@@ -1,0 +1,13 @@
+priority,brand,family,model,device_type,intents,source_verified,target_property,status
+1,Konica Minolta,bizhub,C360i,MFP,service|repair|maintenance|lease|supplies,Konica Minolta Canada,Vonex,verified
+2,Konica Minolta,bizhub,C300i,MFP,service|repair|maintenance|lease|supplies,Konica Minolta Canada,Vonex,verified
+3,Konica Minolta,bizhub,C250i,MFP,service|repair|maintenance|lease|supplies,Konica Minolta Canada,Vonex,verified
+4,Toshiba,e-STUDIO,4518A,MFP,service|repair|maintenance|lease|supplies,manufacturer source required,Vonex,verify-before-publish
+5,Toshiba,e-STUDIO,5518A,MFP,service|repair|maintenance|lease|supplies,manufacturer source required,Vonex,verify-before-publish
+6,Canon,imageRUNNER ADVANCE DX,C259iF,MFP,service|repair|maintenance|supplies,Canon Canada,Vonex,verified
+7,Canon,imageRUNNER ADVANCE DX,8905i,MFP,service|repair|maintenance|lease|supplies,Canon Canada,Vonex,verified
+8,Canon,imageRUNNER ADVANCE,C355iF,MFP,service|repair|maintenance|supplies,Canon Canada,Vonex,verified
+9,Kyocera,TASKalfa,308ci,MFP,service|repair|maintenance|lease|supplies,Kyocera Canada,Vonex,verified
+10,Kyocera,TASKalfa,358ci,MFP,service|repair|maintenance|lease|supplies,Kyocera Canada,Vonex,verified
+11,Kyocera,TASKalfa,408ci,MFP,service|repair|maintenance|lease|supplies,Kyocera Canada,Vonex,verified
+12,Kyocera,TASKalfa,508ci,MFP,service|repair|maintenance|lease|supplies,Kyocera Canada,Vonex,verified
