@@ -1,0 +1,39 @@
+brand,family,model_or_series,priority,primary_intent,status
+Kyocera,TASKalfa,308ci,high,service|repair|lease|supplies,verified
+Kyocera,TASKalfa,358ci,high,service|repair|lease|supplies,verified
+Kyocera,TASKalfa,408ci,high,service|repair|lease|supplies,verified
+Kyocera,TASKalfa,508ci,high,service|repair|lease|supplies,verified
+Kyocera,TASKalfa,MZ4001i,high,service|repair|lease|supplies,research
+Kyocera,TASKalfa,MZ5001i,high,service|repair|lease|supplies,research
+Kyocera,TASKalfa,MZ600i,high,service|repair|lease|supplies,research
+Kyocera,TASKalfa,MZ7001i,high,service|repair|lease|supplies,research
+Kyocera,ECOSYS,MA4000x,high,service|repair|supplies,research
+Kyocera,ECOSYS,MA4000cifx,medium,service|repair|supplies,research
+Toshiba,e-STUDIO,2018A,medium,service|repair|supplies,research
+Toshiba,e-STUDIO,2518A,medium,service|repair|supplies,research
+Toshiba,e-STUDIO,3018A,medium,service|repair|supplies,research
+Toshiba,e-STUDIO,3518A,medium,service|repair|supplies,research
+Toshiba,e-STUDIO,4518A,high,service|repair|lease|supplies,verified
+Toshiba,e-STUDIO,5018A,medium,service|repair|supplies,research
+Toshiba,e-STUDIO,5518A,high,service|repair|lease|supplies,verified
+Toshiba,e-STUDIO,6518A,medium,service|repair|lease|supplies,research
+Toshiba,e-STUDIO,7518A,medium,service|repair|lease|supplies,research
+Toshiba,e-STUDIO,8518A,medium,service|repair|lease|supplies,research
+Toshiba,e-STUDIO,2021AC,medium,service|repair|supplies,verified
+Toshiba,e-STUDIO,2528A,medium,service|repair|supplies,verified
+Toshiba,e-STUDIO,7529A,medium,service|repair|lease|supplies,verified
+Canon,imageRUNNER ADVANCE DX,C3826i,high,service|repair|supplies,verified
+Canon,imageRUNNER ADVANCE DX,C259iF,high,service|repair|supplies,research
+Canon,imageRUNNER ADVANCE DX,C355iF,high,service|repair|supplies,research
+Canon,imageRUNNER ADVANCE DX,4925i,high,service|repair|supplies,verified
+Canon,imageRUNNER ADVANCE DX,4945i,high,service|repair|supplies,verified
+Canon,imageFORCE,C3150,high,service|repair|lease|supplies,verified
+Canon,imageFORCE,C3135,high,service|repair|lease|supplies,verified
+Canon,imageFORCE,C3130,high,service|repair|lease|supplies,verified
+Canon,imageFORCE,C3126,high,service|repair|lease|supplies,verified
+Canon,imageFORCE,4145,high,service|repair|lease|supplies,verified
+Canon,imageFORCE,4135,high,service|repair|lease|supplies,verified
+Canon,imageFORCE,4125,high,service|repair|lease|supplies,verified
+Canon,imageFORCE,6170,medium,service|repair|lease|supplies,verified
+Canon,imageFORCE,6160,medium,service|repair|lease|supplies,verified
+Canon,imageFORCE,6155,medium,service|repair|lease|supplies,verified
