@@ -1,0 +1,12 @@
+domain,url,type,relevance,authority_estimate,status,target_page,anchor_notes,last_checked,notes
+canadianbusinessdirectory.ca,https://www.canadianbusinessdirectory.ca/,directory,high,to-review,not-started,https://shop.vonex.ca/,"Vonex, online printer supplies, printer supplies Canada",2026-09-29,Check for existing Vonex listing; do not create duplicate
+canadaone.ca,https://canadaone.ca/business/addbusiness.html,directory,high,to-review,not-started,https://shop.vonex.ca/,"Vonex, printer supplies Canada",2026-09-29,One URL per business; verify whether existing Vonex listing should be updated instead
+canlist.ca,https://canlist.ca/registration,directory,high,to-review,not-started,https://shop.vonex.ca/,"Vonex printer supplies",2026-09-29,Verify ecommerce/business listing rules
+zipleaf.ca,https://www.zipleaf.ca/Add-Your-Business,directory,medium,to-review,not-started,https://shop.vonex.ca/,"Vonex, printer supplies",2026-09-29,Check existing company profile first
+cylex-canada.ca,https://www.cylex-canada.ca/,directory,medium,to-review,not-started,https://shop.vonex.ca/,"Vonex printer supplies",2026-09-29,Use existing Vonex profile rather than duplicate
+profilecanada.com,https://www.profilecanada.com/Dashboard/,directory,medium,to-review,not-started,https://shop.vonex.ca/,"Vonex online printer supplies",2026-09-29,Prefer updating existing company listing if available
+hotfrog.com,https://support.hotfrog.com/getting-started/how-to-add-your-business-to-hotfrog/,directory,medium,to-review,not-started,https://shop.vonex.ca/,"Vonex printer supplies Canada",2026-09-29,Verify Canadian listing requirements
+techhelp.ca,https://directory.techhelp.ca/,technology directory,high,to-review,not-started,https://shop.vonex.ca/,"printer supplies, business printers",2026-09-29,Assess topical fit before submission
+cdncompanies.com,https://cdncompanies.com/add/,business directory,medium,to-review,not-started,https://shop.vonex.ca/,"Vonex printer supplies",2026-09-29,Verify listing quality and duplicate rules
+indexpin.ca,https://indexpin.ca/en,directory,medium,to-review,not-started,https://shop.vonex.ca/,"Vonex, office supplies",2026-09-29,Review quality before using
+lacartes.com,https://lacartes.com/,business directory,medium,to-review,not-started,https://shop.vonex.ca/,"Vonex printer supplies",2026-09-29,Only use if ecommerce listing is appropriate
