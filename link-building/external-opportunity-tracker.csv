@@ -1,0 +1,8 @@
+domain,url,type,relevance,authority_estimate,status,target_page,anchor_notes,last_checked,notes
+canadianbusinessdirectory.ca,https://www.canadianbusinessdirectory.ca/,directory,high,to-review,not-started,https://vonex.ca/,,2026-09-29,Check for existing Vonex listing before submitting
+canadaone.ca,https://canadaone.ca/business/addbusiness.html,directory,high,to-review,not-started,https://vonex.ca/,,2026-09-29,One URL per business; avoid duplicate listing
+canlist.ca,https://canlist.ca/registration,directory,high,to-review,not-started,https://vonex.ca/,,2026-09-29,Verify listing rules before submission
+zipleaf.ca,https://www.zipleaf.ca/Add-Your-Business,directory,medium,to-review,not-started,https://vonex.ca/,,2026-09-29,Check relevance and existing listing
+cylex-canada.ca,https://www.cylex-canada.ca/,directory,medium,to-review,not-started,https://vonex.ca/,,2026-09-29,Use only if no duplicate Vonex listing
+profilecanada.com,https://www.profilecanada.com/Dashboard/,directory,medium,to-review,not-started,https://vonex.ca/,,2026-09-29,Correct existing NAP rather than duplicate
+bbb.org,https://www.bbb.org/get-listed,organization,high,to-review,not-started,https://vonex.ca/,,2026-09-29,Do not create a second company profile
