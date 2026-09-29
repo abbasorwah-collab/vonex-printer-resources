@@ -1,0 +1,15 @@
+priority,keyword_cluster,target_page,intent,conversion,content_support,local_or_national,status
+high,copier lease Saskatoon,https://vonex.ca/lease-rental,commercial,quote,lease guide + calculator,local,planned
+high,copier rental Saskatoon,https://vonex.ca/lease-rental,commercial,quote,rental guide,local,planned
+high,printer repair Saskatoon,https://vonex.ca/printer-repair-saskatoon,service,phone/service request,repair guide + photos,local,planned
+high,copier repair Saskatoon,https://vonex.ca/copier-service-saskatoon,service,phone/service request,maintenance guide,local,planned
+high,managed print services Saskatoon,https://vonex.ca/managed-print,commercial,assessment request,MPS guide + calculator,local,planned
+high,Kyocera dealer Saskatoon,https://vonex.ca/kyocera-authorized-dealer-saskatoon,commercial,quote,Kyocera guide,local,planned
+high,HP printer service Saskatoon,https://vonex.ca/hp-printer-service-saskatoon,service,phone/service request,HP service guide,local,planned
+high,Lexmark printer service Saskatoon,https://vonex.ca/lexmark-printer-service-saskatoon,service,phone/service request,Lexmark service guide,local,planned
+medium,Zebra printer service Saskatoon,https://vonex.ca/brands,commercial,quote,Zebra guide,local,planned
+high,toner cartridges Canada,https://shop.vonex.ca/,transactional,purchase,toner buying guides,national,planned
+high,printer supplies Canada,https://shop.vonex.ca/,transactional,purchase,supplies guides,national,planned
+high,HP ink Canada,https://shop.vonex.ca/,transactional,purchase,HP ink guide,national,planned
+high,Brother toner Canada,https://shop.vonex.ca/,transactional,purchase,Brother toner guide,national,planned
+medium,office supplies Canada,https://shop.vonex.ca/,transactional,purchase,office supplies guides,national,planned
