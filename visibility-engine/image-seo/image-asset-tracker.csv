@@ -1,0 +1,13 @@
+page_url,page_type,priority,image_subject,location_context,filename_suggestion,alt_text_suggestion,original_photo,exif_gps,caption_needed,status
+https://vonex.ca/,local,high,Vonex office/team,Saskatoon,vonex-office-saskatoon.jpg,Vonex Business Solutions office and team in Saskatoon,yes,keep-if-genuine,needed,planned
+https://vonex.ca/printer-repair-saskatoon,local,high,Technician servicing printer,Saskatoon,vonex-printer-repair-saskatoon.jpg,Vonex technician servicing a business printer in Saskatoon,yes,keep-if-genuine,needed,planned
+https://vonex.ca/copier-service-saskatoon,local,high,Copier service/installation,Saskatoon,vonex-copier-service-saskatoon.jpg,Vonex technician servicing or installing a business copier in Saskatoon,yes,keep-if-genuine,optional,planned
+https://vonex.ca/lease-rental,service,high,Business copier/printer installation,Saskatchewan,vonex-office-equipment-installation.jpg,Business printer or copier installation by Vonex,yes,keep-if-genuine,optional,planned
+https://vonex.ca/managed-print,service,high,MFP/managed print environment,Saskatchewan,vonex-managed-print-saskatchewan.jpg,Business managed print equipment supported by Vonex,yes,keep-if-genuine,optional,planned
+https://vonex.ca/hp-printer-service-saskatoon,brand,medium,HP printer service,Saskatoon,vonex-hp-printer-service-saskatoon.jpg,HP business printer service by Vonex in Saskatoon,yes,keep-if-genuine,optional,planned
+https://vonex.ca/lexmark-printer-service-saskatoon,brand,medium,Lexmark printer service,Saskatoon,vonex-lexmark-printer-service-saskatoon.jpg,Lexmark business printer service by Vonex in Saskatoon,yes,keep-if-genuine,optional,planned
+https://vonex.ca/kyocera-authorized-dealer-saskatoon,brand,high,Kyocera equipment,Saskatoon,vonex-kyocera-saskatoon.jpg,Kyocera business printing equipment supplied by Vonex in Saskatoon,yes,keep-if-genuine,optional,planned
+https://vonex.ca/blog/medical-clinic-printer-leasing-managed-print,industry,high,MFP in medical-office setting,Saskatchewan,vonex-medical-office-printer.jpg,Business printer or MFP in a medical office setting,yes,keep-if-genuine,optional,planned
+https://vonex.ca/blog/law-firm-printer-leasing-managed-print,industry,high,MFP in law-office setting,Saskatchewan,vonex-law-office-printer.jpg,Business printer or MFP in a law office setting,yes,keep-if-genuine,optional,planned
+https://shop.vonex.ca/,ecommerce,high,Shop printer/toner supplies,Canada,vonex-printer-supplies-canada.jpg,Printer supplies and toner available from Vonex in Canada,yes/no,not-primary,needed,planned
+https://shop.vonex.ca/,ecommerce,high,Product/packing image,Canada,vonex-toner-shipping-canada.jpg,Vonex toner and printer supplies shipping across Canada,yes,not-primary,optional,planned
