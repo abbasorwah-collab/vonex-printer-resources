@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Copier Lease Payment Estimator | Vonex Business Solutions</title>
+<meta name="description" content="Estimate a business copier equipment payment by equipment price, term and annual interest rate.">
+</head>
+<body>
+<main>
+<h1>Copier Lease Payment Estimator</h1>
+<p>Use this simple estimator to model an approximate monthly equipment payment. It is not a financing quote.</p>
+<form id="calc">
+<label>Equipment amount ($) <input id="amount" type="number" min="0" step="100" required></label>
+<label>Term (months) <input id="months" type="number" min="1" step="1" required></label>
+<label>Estimated annual interest rate (%) <input id="rate" type="number" min="0" step="0.1" value="8" required></label>
+<button>Calculate</button>
+</form>
+<section id="result" aria-live="polite"></section>
+<p><strong>Important:</strong> This is an estimate only. Actual lease or financing payments depend on the approved structure, taxes, fees, residuals and credit terms.</p>
+<a href="https://vonex.ca/lease-rental">Request a copier lease or rental quote</a>
+</main>
+<script>
+document.getElementById('calc').addEventListener('submit', function(e) {
+  e.preventDefault();
+  const principal = Number(document.getElementById('amount').value);
+  const months = Number(document.getElementById('months').value);
+  const annualRate = Number(document.getElementById('rate').value) / 100;
+  if (!(principal >= 0) || !(months > 0) || !(annualRate >= 0)) return;
+  const r = annualRate / 12;
+  const payment = r === 0 ? principal / months : principal * r / (1 - Math.pow(1 + r, -months));
+  const total = payment * months;
+  document.getElementById('result').innerHTML =
+    '<h2>Estimate</h2>' +
+    '<p>Estimated monthly payment: <strong>$' + payment.toFixed(2) + '</strong></p>' +
+    '<p>Estimated equipment payments over term: <strong>$' + total.toFixed(2) + '</strong></p>';
+});
+</script>
+</body>
+</html>
