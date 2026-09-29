@@ -1,0 +1,8 @@
+order,asset,primary_url,deliverable,status
+1,Cost Per Page Calculator,https://vonex.ca/,Deploy HTML/JS calculator on appropriate Vonex page,spec-ready
+2,Copier Lease Estimator,https://vonex.ca/lease-rental,Deploy HTML/JS estimator,spec-ready
+3,Printer Repair Cluster,https://vonex.ca/printer-repair-saskatoon,Publish supporting guides and connect internal links,planned
+4,Copier Lease Cluster,https://vonex.ca/lease-rental,Publish lease/rental support guides and calculator,planned
+5,Managed Print Cluster,https://vonex.ca/managed-print,Publish MPS support content and calculator,planned
+6,Original Image Set,https://vonex.ca/printer-repair-saskatoon,Collect and optimize real Vonex service/install photos,planned
+7,Lead Tracking,https://vonex.ca/,Add call/form source tracking once provider/site implementation is available,planned
