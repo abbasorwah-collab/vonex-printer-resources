@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Repair or Replace Business Printer Calculator | Vonex</title>
+<meta name="description" content="Estimate whether repairing or replacing a business printer may make more sense based on age, repair spend, downtime and monthly printing volume.">
+</head>
+<body>
+<main>
+<h1>Repair or Replace Your Business Printer?</h1>
+<p>Use this quick estimator as a starting point when deciding whether an aging business printer should be repaired or replaced.</p>
+<form id="calc">
+<label>Printer age (years) <input id="age" type="number" min="0" step="1" required></label>
+<label>Repair cost in the last 12 months ($) <input id="repair" type="number" min="0" step="50" value="0" required></label>
+<label>Estimated downtime cost per incident ($) <input id="downtime" type="number" min="0" step="25" value="0" required></label>
+<label>Downtime incidents in the last 12 months <input id="incidents" type="number" min="0" step="1" value="0" required></label>
+<label>Monthly pages <input id="pages" type="number" min="0" step="100" value="0" required></label>
+<button>Calculate</button>
+</form>
+<section id="result" aria-live="polite"></section>
+<p><strong>Important:</strong> This is a decision aid, not a recommendation or financial quote. Reliability, parts availability, security, print quality, energy use, warranty status and replacement cost should also be considered.</p>
+<a href="https://vonex.ca/printer-repair-saskatoon">Request printer repair</a> |
+<a href="https://vonex.ca/lease-rental">Explore printer/copier lease and rental options</a>
+</main>
+<script>
+document.getElementById('calc').addEventListener('submit', function(e) {
+  e.preventDefault();
+  const age=Number(document.getElementById('age').value);
+  const repair=Number(document.getElementById('repair').value);
+  const downtime=Number(document.getElementById('downtime').value);
+  const incidents=Number(document.getElementById('incidents').value);
+  const pages=Number(document.getElementById('pages').value);
+  if([age,repair,downtime,incidents,pages].some(v=>v<0)) return;
+  const annualDowntime=downtime*incidents;
+  const annualKnownCost=repair+annualDowntime;
+  let guidance;
+  if(age>=7 || annualKnownCost>=1000) {
+    guidance='<strong>Consider a replacement assessment.</strong> Your age and/or reported annual repair and downtime costs indicate that comparing replacement options may be useful.';
+  } else if(age>=5 || annualKnownCost>=500) {
+    guidance='<strong>Compare both options.</strong> Get the printer assessed and compare expected repair costs with the cost and requirements of a replacement.';
+  } else {
+    guidance='<strong>A repair assessment may be reasonable.</strong> Based only on the numbers entered, the reported age and annual repair/downtime cost are relatively modest. Reliability and parts availability still matter.';
+  }
+  document.getElementById('result').innerHTML =
+    '<h2>Estimate</h2>'+
+    '<p>Reported annual repair cost: <strong>$'+repair.toFixed(2)+'</strong></p>'+
+    '<p>Estimated annual downtime cost: <strong>$'+annualDowntime.toFixed(2)+'</strong></p>'+
+    '<p>Reported repair + downtime cost: <strong>$'+annualKnownCost.toFixed(2)+'</strong></p>'+
+    '<p>'+guidance+'</p>';
+});
+</script>
+</body>
+</html>
