@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Cost Per Page Calculator | Vonex Business Solutions</title>
+<meta name="description" content="Estimate business printer toner cost per page and annual toner spend. Use the result as a starting point for a free print assessment.">
+</head>
+<body>
+<main>
+<h1>Business Printer Cost Per Page Calculator</h1>
+<p>Estimate toner cost per page and annual toner spend using your printer's toner price, yield and monthly volume.</p>
+<form id="calc">
+<label>Toner price ($) <input id="price" type="number" min="0" step="0.01" required></label>
+<label>Rated toner yield (pages) <input id="yield" type="number" min="1" step="1" required></label>
+<label>Monthly pages <input id="pages" type="number" min="0" step="1" required></label>
+<button>Calculate</button>
+</form>
+<section id="result" aria-live="polite"></section>
+<p><strong>Important:</strong> This is an estimate. Actual cost per page varies with coverage, device settings, maintenance items, colour mix and other operating costs.</p>
+<a href="https://vonex.ca/managed-print">Request a free print assessment</a>
+</main>
+<script>
+document.getElementById('calc').addEventListener('submit', function(e) {
+  e.preventDefault();
+  const price = Number(document.getElementById('price').value);
+  const yieldPages = Number(document.getElementById('yield').value);
+  const monthly = Number(document.getElementById('pages').value);
+  if (!(price >= 0) || !(yieldPages > 0) || !(monthly >= 0)) return;
+  const cpp = price / yieldPages;
+  const monthlyCost = cpp * monthly;
+  const annualCost = monthlyCost * 12;
+  document.getElementById('result').innerHTML =
+    '<h2>Estimate</h2>' +
+    '<p>Estimated toner cost per page: <strong>$' + cpp.toFixed(4) + '</strong></p>' +
+    '<p>Estimated monthly toner cost: <strong>$' + monthlyCost.toFixed(2) + '</strong></p>' +
+    '<p>Estimated annual toner cost: <strong>$' + annualCost.toFixed(2) + '</strong></p>';
+});
+</script>
+</body>
+</html>
