@@ -1,0 +1,14 @@
+priority,brand,family,model,device_type,intents,local_service,shop_supply,status
+high,Konica Minolta,bizhub,C360i,MFP,service|repair|maintenance|lease|supplies,yes,no,research
+high,Konica Minolta,bizhub,C300i,MFP,service|repair|maintenance|lease|supplies,yes,no,research
+high,Toshiba,e-STUDIO,4518A,MFP,service|repair|maintenance|lease|supplies,yes,no,research
+high,Toshiba,e-STUDIO,5518A,MFP,service|repair|maintenance|lease|supplies,yes,no,research
+high,Canon,imageRUNNER ADVANCE,model-to-verify,MFP,service|repair|maintenance|lease|supplies,yes,no,research
+high,Kyocera,TASKalfa,model-to-verify,MFP,service|repair|maintenance|lease|supplies,yes,no,research
+high,HP,LaserJet Enterprise,model-to-verify,printer,service|repair|maintenance|supplies,yes,yes,research
+high,Lexmark,MX/CX,model-to-verify,printer/MFP,service|repair|maintenance|supplies,yes,yes,research
+medium,Xerox,VersaLink,model-to-verify,printer/MFP,service|repair|maintenance|supplies,yes,yes,research
+medium,Xerox,AltaLink,model-to-verify,MFP,service|repair|maintenance|lease|supplies,yes,yes,research
+medium,Brother,business laser,model-to-verify,printer/MFP,service|repair|maintenance|supplies,yes,yes,research
+high,Zebra,ZD,model-to-verify,label printer,service|repair|supplies,yes,yes,research
+high,Zebra,ZT,model-to-verify,label printer,service|repair|supplies,yes,yes,research
