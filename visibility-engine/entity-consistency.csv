@@ -1,0 +1,7 @@
+entity,field,canonical_value,check_frequency,status
+Vonex Business Solutions,business_name,Vonex Business Solutions,monthly,planned
+Vonex Business Solutions,address,Unit 400 - 111 2nd Avenue South; Saskatoon; SK S7K 1K6,monthly,planned
+Vonex Business Solutions,phone,306-881-0341,monthly,planned
+Vonex Business Solutions,local_website,https://vonex.ca/,monthly,planned
+Vonex Business Solutions,ecommerce_website,https://shop.vonex.ca/,monthly,planned
+Vonex Business Solutions,service_area,Saskatchewan service areas; Regina drive-to service where offered,quarterly,planned
