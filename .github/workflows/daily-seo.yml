@@ -1,0 +1,81 @@
+name: Daily SEO Check
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 08:00 America/Regina (CST/UTC-6).
+    # GitHub Actions schedules use UTC; Regina remains UTC-6 year-round.
+    - cron: "0 14 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  daily-seo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Run daily SEO audit
+        env:
+          PYTHONUNBUFFERED: "1"
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from datetime import datetime, timezone
+
+          tracker = Path("daily-seo/daily-seo-tracker.csv")
+          report = Path("daily-seo/daily-seo-report.md")
+
+          now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+
+          # This first version is deliberately safe: it records that the
+          # scheduled audit ran and preserves the human-review queue.
+          # External Search Console/analytics credentials are not assumed.
+          rows = tracker.read_text(encoding="utf-8").splitlines()
+          header = rows[0]
+          data = rows[1:]
+
+          today = datetime.now(timezone.utc).strftime("%Y-%m-%d")
+          daily_rows = [r for r in data if r.startswith(today + ",")]
+
+          report.write_text(
+              "# Daily SEO Report\n\n"
+              f"Audit run: {now}\n\n"
+              "## Status\n\n"
+              f"- Tracker rows: {len(data)}\n"
+              f"- Rows dated today: {len(daily_rows)}\n"
+              "- Automated website publishing: disabled\n"
+              "- External Search Console credentials: not assumed\n"
+              "- Next step: review queued opportunities and update the tracker.\n\n"
+              "## Operating scope\n\n"
+              "- vonex.ca: Regina/local SEO, technical SEO, internal links, content and authority.\n"
+              "- shop.vonex.ca: collections, products, brands, backlinks and ecommerce SEO.\n\n"
+              "The workflow is intentionally non-destructive. It does not create listings, publish website changes, create reviews, or build backlinks automatically.\n",
+              encoding="utf-8",
+          )
+
+          print(f"Daily SEO audit completed at {now}")
+          print(f"Tracker rows: {len(data)}")
+          print(f"Today's rows: {len(daily_rows)}")
+          PY
+
+      - name: Commit updated report
+        run: |
+          git config user.name "Vonex Daily SEO"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add daily-seo/daily-seo-report.md
+          if git diff --cached --quiet; then
+            echo "No report changes to commit."
+          else
+            git commit -m "chore: run daily SEO audit"
+            git push
+          fi
