@@ -1,0 +1,22 @@
+tier,town,province,priority,service_page_candidate,brand_pages,industry_pages,local_authority,status
+1,Prince Albert,SK,high,/printer-repair-prince-albert,yes,yes,yes,existing-area-review
+1,Moose Jaw,SK,high,/printer-repair-moose-jaw,yes,yes,yes,service-coverage-review
+1,Yorkton,SK,high,/printer-repair-yorkton,yes,yes,yes,existing-area-review
+1,Swift Current,SK,high,/printer-repair-swift-current,yes,yes,yes,research
+1,North Battleford,SK,high,/printer-repair-north-battleford,yes,yes,yes,existing-area-review
+1,Warman,SK,high,/printer-repair-warman,yes,yes,yes,existing-area-review
+1,Martensville,SK,high,/printer-repair-martensville,yes,yes,yes,existing-area-review
+1,Weyburn,SK,high,/printer-repair-weyburn,yes,yes,yes,service-coverage-review
+1,Estevan,SK,high,/printer-repair-estevan,yes,yes,yes,service-coverage-review
+1,Humboldt,SK,high,/printer-repair-humboldt,yes,yes,yes,service-coverage-review
+2,Melfort,SK,medium,/printer-repair-melfort,yes,yes,yes,research
+2,Meadow Lake,SK,medium,/printer-repair-meadow-lake,yes,yes,yes,research
+2,Melville,SK,medium,/printer-repair-melville,yes,yes,yes,research
+2,Nipawin,SK,medium,/printer-repair-nipawin,yes,yes,yes,research
+2,Kindersley,SK,medium,/printer-repair-kindersley,yes,yes,yes,research
+2,Tisdale,SK,medium,/printer-repair-tisdale,yes,yes,yes,research
+2,Moosomin,SK,medium,/printer-repair-moosomin,yes,yes,yes,research
+2,Unity,SK,medium,/printer-repair-unity,yes,yes,yes,research
+2,Battleford,SK,medium,/printer-repair-battleford,yes,yes,yes,research
+2,La Ronge,SK,medium,/printer-repair-la-ronge,yes,yes,yes,research
+2,White City,SK,medium,/printer-repair-white-city,yes,yes,yes,research
