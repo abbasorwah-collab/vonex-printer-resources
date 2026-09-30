@@ -95,7 +95,20 @@ For products, inspect:
 
 Do not create thin product pages solely for SEO.
 
-### 7. Content improvement
+### 7. Product keyword SEO
+Run `visibility-engine/product-keyword-engine.md` for the next product batch.
+
+For each selected product:
+- identify the primary keyword
+- identify relevant secondary/model/compatibility terms
+- classify search intent
+- use Search Console data when available
+- prioritize meaningful impressions and strong commercial relevance
+- record the work in `visibility-engine/product-keyword-tracker.csv`
+
+Do not invent compatibility, specifications or manufacturer relationships.
+
+### 8. Content improvement
 Prefer improving pages that already have impressions before creating new pages.
 
 Possible actions:
@@ -109,13 +122,13 @@ Possible actions:
 - improve comparison tables
 - add calculators/tools where genuinely useful
 
-### 8. Conversion review
+### 9. Conversion review
 Connect SEO to:
 Search → landing page → call/form → quote → sale.
 
 Track useful business outcomes where data is available.
 
-### 9. Record
+### 10. Record
 Every completed action should record:
 - date
 - property
@@ -134,7 +147,7 @@ Use a rotating queue:
 - Monday: Search Console + technical
 - Tuesday: Regina/local authority
 - Wednesday: shop collections/brands
-- Thursday: products/model pages
+- Thursday: product keywords/model pages
 - Friday: backlinks/outreach
 - Saturday: content/internal links
 - Sunday: measurement/backlog cleanup
@@ -193,6 +206,7 @@ Secondary:
 - quality backlinks
 - local visibility
 - product/collection visibility
+- relevant product queries
 
 ## Daily completion standard
 
@@ -210,6 +224,7 @@ This engine coordinates:
 - offsite-seo
 - link-building
 - shop-seo
+- product-keyword-engine
 - machine-model engine
 - Saskatchewan small-town engine
 - internal-link audit
