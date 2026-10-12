@@ -11,6 +11,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repairs** -> https://vonex.ca/repairs
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -19,6 +20,8 @@ Audit/report only. No website content is changed automatically.
 - **printer repairs** -> https://vonex.ca/repairs
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **printer leasing** -> https://vonex.ca/lease-rental
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -26,6 +29,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repair** -> https://vonex.ca/printer-repair-saskatoon
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -42,6 +46,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repairs** -> https://vonex.ca/repairs
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -50,6 +55,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repairs** -> https://vonex.ca/repairs
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -66,6 +72,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repairs** -> https://vonex.ca/repairs
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
 ### https://vonex.ca/lease-rental
@@ -73,6 +80,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repairs** -> https://vonex.ca/repairs
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -81,6 +89,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repairs** -> https://vonex.ca/repairs
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -106,6 +115,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repairs** -> https://vonex.ca/repairs
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -114,6 +124,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repairs** -> https://vonex.ca/repairs
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -121,6 +132,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repairs** -> https://vonex.ca/repairs
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -128,6 +140,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repair** -> https://vonex.ca/printer-repair-saskatoon
 - **printer repairs** -> https://vonex.ca/repairs
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -136,6 +149,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repairs** -> https://vonex.ca/repairs
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -144,6 +158,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repairs** -> https://vonex.ca/repairs
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -152,6 +167,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repairs** -> https://vonex.ca/repairs
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -160,6 +176,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repairs** -> https://vonex.ca/repairs
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -168,6 +185,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repairs** -> https://vonex.ca/repairs
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -176,6 +194,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repairs** -> https://vonex.ca/repairs
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -195,6 +214,7 @@ Audit/report only. No website content is changed automatically.
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
 - **printer leasing** -> https://vonex.ca/lease-rental
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -203,6 +223,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repairs** -> https://vonex.ca/repairs
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -211,6 +232,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repairs** -> https://vonex.ca/repairs
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -219,6 +241,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repairs** -> https://vonex.ca/repairs
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -227,6 +250,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repairs** -> https://vonex.ca/repairs
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -235,6 +259,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repairs** -> https://vonex.ca/repairs
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -243,6 +268,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repairs** -> https://vonex.ca/repairs
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
@@ -251,6 +277,7 @@ Audit/report only. No website content is changed automatically.
 - **printer repairs** -> https://vonex.ca/repairs
 - **copier service** -> https://vonex.ca/copier-service-saskatoon
 - **managed print** -> https://vonex.ca/managed-print
+- **office equipment** -> https://vonex.ca/office-equipment
 - **toner** -> https://vonex.ca/ink-toner
 - **Kyocera** -> https://vonex.ca/kyocera-authorized-dealer-saskatoon
 
