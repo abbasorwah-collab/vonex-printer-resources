@@ -1,6 +1,6 @@
 # Daily SEO Report
 
-Audit run: 2026-11-21 20:18 UTC
+Audit run: 2026-11-22 20:31 UTC
 
 ## Status
 
